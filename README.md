@@ -1,6 +1,7 @@
 # Тестовое задание для stat4Market:
 # https://rivixxx.github.io/test_stat4Market/
 ## ![smartmockups_l2xdv0uu](https://user-images.githubusercontent.com/96477650/167300756-6a6daf27-a5a7-42f2-80db-18400c4d5c78.jpg)
+Главная страница имеет только header ссылка обучение веден на страницу с тестовым заданием. 
 
 #### Check list:
 #### [x] Адаптивная верстка части одной страницы.

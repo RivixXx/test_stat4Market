@@ -1235,7 +1235,7 @@ body {
   .courses__container .courses__image img {
     width: 245px;
     height: 245px;
-    left: 78px;
+    right: 78px;
     top: -245px;
   }
 

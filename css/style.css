@@ -1364,6 +1364,7 @@ body {
     width: 245px;
     height: 245px;
     right: 78px;
+    left: -78px;
     top: -245px;
   }
 
